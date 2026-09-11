@@ -9,7 +9,7 @@
 
 <h1>Socials</h1> 
 
-<a href="https://t.me/Mohammad_shirrdel">
+<a href="https://t.me/Mohammad_devw">
   <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="48" height="48" alt="Telegram">
 </a>
 <a href="https://wa.me/989100073191">
